@@ -1,12 +1,10 @@
-This programming language is for all Go lovers. I love Go and I wnated to make something that can do anything at all with the same ease and flow as Go can. EROR! Except it cannot hack.
+This programming language is for all Go conosseurs. I love Go and I wnated to make something that can do almost anything at all with the same ease and flow as Go can. EXCEOTON! It cannot hack.
 
-Theoretically speaking CHATGPT should be able to write flawless code with it every single time
+Theoretically speaking CHATGPT should be able to write flawless code with it every time
 
 
-Enjoy
-
-NBP,
+Enjoy,
 Nox
 
 
-You just wait for NoxOS
+NoxOS is happening!
